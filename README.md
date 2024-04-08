@@ -1,4 +1,5 @@
-![image](https://github.com/ahadulsohag/ahadulsohag/assets/128306527/d45fb44c-06b4-4197-a726-5af4905a4517)
+![image](https://github.com/ahadulsohag/ahadulsohag/assets/128306527/83dd8925-876f-4d33-9990-2ad7c418376a)
+
 
 - 👋 Hi, I’m @ahadulsohag
 - 👀 I’m interested in A.I
