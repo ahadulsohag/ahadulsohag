@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sohag</h1>
-<h3 align="center">a dreamer and fast learner</h3>
+<h6 align="center">a dreamer and fast learner</h6>
 
 - 🌱 I’m currently learning **Unity and M.L**
 
