@@ -18,7 +18,6 @@
 <a href="https://codeforces.com/profile/ahadulsohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahadulsohag" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahadulsohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahadulsohag" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/ahadulsohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ahadulsohag" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ahadulsohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ahadulsohag" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/ahadulsohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ahadulsohag" height="30" width="40" /></a>
 </p>
 
