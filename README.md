@@ -2,7 +2,6 @@
 <h6 align="center">a dreamer and fast learner</h6>
 
 - 🌱 I’m currently learning **Unity and M.L**
-
 - 📫 Reach me **ahadulsohag@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
