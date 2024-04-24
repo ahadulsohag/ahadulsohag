@@ -1,7 +1,8 @@
 <h1 align="center">I'm Sohag</h1>
 <h4 align="center">I'm a fast learner with a passion for AI technology.<br>My goal is to build an AI-powered assistant that redefines human-computer interaction.<br>Check out my GitHub portfolio for projects showcasing my skills in machine learning and natural language processing.</h4>
+<hr/>
 <br>
-<br>
+
 - 🌱 I’m currently learning **Unity and M.L**
 - 📫 Reach me **ahadulsohag@gmail.com**
 
