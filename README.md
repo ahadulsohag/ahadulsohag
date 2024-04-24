@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sohag</h1>
-<h4 align="center">An avid explorer of AI, video games, AR/VR, and the metaverse. Always learning,<br>adapting, and envisioning the future of immersive experiences. Dive into<br>my GitHub to see how a fast learner transforms dreams into reality.</h4>
+<h3 align="center">An avid explorer of AI, video games, AR/VR, and the metaverse. Always learning,<br>adapting, and envisioning the future of immersive experiences. Dive into<br>my GitHub to see how a fast learner transforms dreams into reality.</h3>
 <hr/>
 <br>
 
