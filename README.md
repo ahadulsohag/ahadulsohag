@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sohag</h1>
-<h4 align="center">I'm a fast learner with a passion for AI technology.<br>My goal is to build an AI-powered assistant that redefines human-computer interaction.<br>Check out my GitHub portfolio for projects showcasing my skills in machine learning and natural language processing.</h4>
+<h4 align="center">An avid explorer of AI, video games, AR/VR, and the metaverse.<br>Always learning, adapting, and envisioning the future of immersive experiences.<br>Dive into my GitHub to see how a fast learner transforms dreams into reality.</h4>
 <hr/>
 <br>
 
