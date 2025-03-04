@@ -3,7 +3,7 @@
 <hr/>
 <br>
 
-- 🌱 I’m currently learning **Unity and M.L**
+- 🌱 I’m currently learning **M.L**
 - 📫 Reach me **ahadulsohag@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
