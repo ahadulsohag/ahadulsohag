@@ -2,11 +2,9 @@
 <h3 align="center">An avid explorer of AI, video games, and AR/VR. Always learning, adapting,<br>and envisioning the future of immersive experiences. Dive into my GitHub<br>to see how a fast learner transforms dreams into reality.</h3>
 <hr/>
 <br>
-<h2>
+<h4>
 - 📫 Reach me <a href="mailto:ahadulsohag@gmail.com">ahadulsohag@gmail.com</a>
-  <br>
-- 🔗 Connect with me in <a href="https://www.linkedin.com/in/ahadulsohag/">Linkedin</a>
-</h2>
+</h4>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
