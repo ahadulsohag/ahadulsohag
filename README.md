@@ -3,8 +3,9 @@
 <hr/>
 <br>
 <h4>
-- 📫 Reach me **ahadulsohag@gmail.com**<br>
-- 🔗 Connect with me **https://www.linkedin.com/in/ahadulsohag/**
+- 📫 Reach me **ahadulsohag@gmail.com
+  <br>
+- 🔗 Connect with me **https://www.linkedin.com/in/ahadulsohag/
 </h4>
 <br>
 <h3 align="left">Connect with me:</h3>
