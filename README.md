@@ -1,7 +1,10 @@
-<h1 align="center">I'm Sohag</h1>
-<h3 align="center">An avid explorer of AI, video games, and AR/VR. Always learning, adapting,<br>and envisioning the future of immersive experiences. Dive into my GitHub<br>to see how a fast learner transforms dreams into reality.</h3>
+<h1 align="center">Hi, I'm Sohag</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1500&pause=900&color=00F72D&center=true&vCenter=true&width=750&lines=AI+Enthusiast;Backend+Engineer;Future+Robotics+Entrepreneur" />
+</p>
 <hr/>
 <br>
+
 <h4>
 - 📫 Reach me <a href="mailto:ahadulsohag@gmail.com">ahadulsohag@gmail.com</a>
 </h4>
