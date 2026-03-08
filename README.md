@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,git,c,cpp,html,css,javascript,unity,arduino&perline=6" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,go,javascript,html,css,fastapi,git,docker,arduino,unity&perline=6" /><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
