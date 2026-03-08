@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sohag</h1>
+<h1 align="center">I'm Sohag</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=1500&pause=900&color=00F72D&center=true&vCenter=true&width=750&lines=AI+Enthusiast;Backend+Engineer;Future+Robotics+Entrepreneur" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&duration=1500&pause=1000&color=F7DF04&multiline=false&center=true&random=true&vCenter=true&width=750&lines=Backend+Engineer;AI+Enthusiast;Researcher;Competitive+Programmer" alt="Typing SVG" /></a>
+
 <hr/>
 <br>
 <h4>
