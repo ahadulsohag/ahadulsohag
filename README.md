@@ -1,22 +1,29 @@
-<h1 align="center">I'm Sohag</h1>
+<h1 align="center">Hi, I'm Sohag!</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=36&duration=1500&pause=1000&color=F7DF04&multiline=false&center=true&random=true&vCenter=true&width=750&lines=Backend+Engineer;AI+Enthusiast;Researcher;Competitive+Programmer" alt="Typing SVG" /></a>
 
 <hr/>
-<br>
 <h4>
 - 📫 Reach me <a href="mailto:ahadulsohag@gmail.com">ahadulsohag@gmail.com</a>
 </h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,javascript,html,css,fastapi,git,docker,arduino,unity&perline=6" /><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="50" height="50"/>
-</p>
+### Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,go,python,java)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,flask,docker,fastapi)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,firebase,mongodb,supabase,jira)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,netlify,vercel,vscode,figma,githubactions,gitlab)
+
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
